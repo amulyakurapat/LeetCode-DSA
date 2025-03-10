@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
 ## Binary Search
 |  |
@@ -19,10 +20,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
