@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
 ## Binary Search
 |  |
@@ -73,4 +74,12 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->ode Topics Start-->
