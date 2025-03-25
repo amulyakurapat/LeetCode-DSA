@@ -57,6 +57,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
@@ -67,10 +68,12 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0344-reverse-string) |
 ## Prefix Sum
 |  |
