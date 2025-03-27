@@ -18,6 +18,7 @@
 | [0367-valid-perfect-square](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
+| [1046-max-consecutive-ones-iii](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Interactive
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0219-contains-duplicate-ii](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
+| [1046-max-consecutive-ones-iii](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
@@ -53,6 +55,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
+| [1046-max-consecutive-ones-iii](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Sorting
 |  |
@@ -79,6 +82,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Bit Manipulation
 |  |
