@@ -106,4 +106,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->ode Topics Start-->
