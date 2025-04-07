@@ -10,6 +10,7 @@
 | [0326-power-of-three](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
+| [1013-fibonacci-number](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [0234-palindrome-linked-list](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -110,4 +112,12 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0175-combine-two-tables) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->ode Topics Start-->
