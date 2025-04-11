@@ -7,6 +7,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
@@ -116,10 +117,15 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0377-combination-sum-iv) |
 | [1013-fibonacci-number](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1013-fibonacci-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->ode Topics Start-->
