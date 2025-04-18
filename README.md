@@ -131,16 +131,20 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0279-perfect-squares) |
+| [0617-merge-two-binary-trees](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
 ## Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->ode Topics Start-->
