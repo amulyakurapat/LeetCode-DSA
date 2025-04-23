@@ -112,6 +112,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 ## Database
 |  |
@@ -138,17 +139,20 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->ode Topics Start-->
