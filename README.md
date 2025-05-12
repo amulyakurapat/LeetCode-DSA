@@ -7,6 +7,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0342-power-of-four) |
@@ -156,4 +157,12 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->ode Topics Start-->
