@@ -33,6 +33,7 @@
 | [0011-container-with-most-water](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
@@ -123,6 +124,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0377-combination-sum-iv) |
 | [0583-delete-operation-for-two-strings](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0583-delete-operation-for-two-strings) |
