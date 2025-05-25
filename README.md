@@ -33,6 +33,7 @@
 | [0011-container-with-most-water](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0075-sort-colors](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0344-reverse-string) |
@@ -67,6 +69,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
