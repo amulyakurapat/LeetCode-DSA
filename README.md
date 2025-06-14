@@ -45,6 +45,7 @@
 | [0658-find-k-closest-elements](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
