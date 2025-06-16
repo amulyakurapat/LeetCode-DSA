@@ -57,6 +57,7 @@
 | [0344-reverse-string](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
+| [0908-middle-of-the-linked-list](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
