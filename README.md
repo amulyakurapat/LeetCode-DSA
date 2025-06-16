@@ -52,6 +52,7 @@
 | [0011-container-with-most-water](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0344-reverse-string) |
@@ -94,6 +95,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0583-delete-operation-for-two-strings) |
