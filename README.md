@@ -44,6 +44,7 @@
 | [0283-move-zeroes](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0377-combination-sum-iv) |
+| [0485-max-consecutive-ones](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
