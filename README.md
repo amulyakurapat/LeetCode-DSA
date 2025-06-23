@@ -36,6 +36,7 @@
 | [0011-container-with-most-water](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0189-rotate-array) |
@@ -138,6 +140,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -149,6 +152,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0377-combination-sum-iv) |
@@ -200,4 +204,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0048-rotate-image) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->ode Topics Start-->
