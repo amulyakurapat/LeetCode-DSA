@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0258-add-digits) |
@@ -35,6 +36,7 @@
 | [0011-container-with-most-water](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0189-rotate-array) |
@@ -194,4 +196,8 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0594-longest-harmonious-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->ode Topics Start-->
