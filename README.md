@@ -33,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -99,6 +100,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0268-missing-number) |
