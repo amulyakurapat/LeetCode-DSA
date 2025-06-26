@@ -40,6 +40,7 @@
 | [0042-trapping-rain-water](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0377-combination-sum-iv) |
