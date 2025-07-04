@@ -26,6 +26,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Interactive
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
