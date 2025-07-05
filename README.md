@@ -174,6 +174,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0279-perfect-squares) |
 | [0617-merge-two-binary-trees](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
 ## Tree
@@ -182,6 +183,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
@@ -189,6 +191,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
@@ -196,6 +199,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0617-merge-two-binary-trees) |
 ## Simulation
 |  |
