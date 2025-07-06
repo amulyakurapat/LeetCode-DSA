@@ -14,6 +14,7 @@
 | [0326-power-of-three](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
@@ -118,6 +119,7 @@
 | [0242-valid-anagram](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0583-delete-operation-for-two-strings](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0583-delete-operation-for-two-strings) |
 ## Prefix Sum
 |  |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
