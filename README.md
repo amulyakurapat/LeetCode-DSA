@@ -56,6 +56,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
 | [1046-max-consecutive-ones-iii](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1217-relative-sort-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1217-relative-sort-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -98,6 +99,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
+| [1217-relative-sort-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1217-relative-sort-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
@@ -112,6 +114,7 @@
 | [0268-missing-number](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [1217-relative-sort-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1217-relative-sort-array) |
 ## String
 |  |
 | ------- |
@@ -224,4 +227,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->ode Topics Start-->
