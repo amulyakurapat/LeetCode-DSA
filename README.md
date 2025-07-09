@@ -58,6 +58,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0658-find-k-closest-elements) |
+| [0724-find-pivot-index](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1217-relative-sort-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1217-relative-sort-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -132,6 +133,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Bit Manipulation
