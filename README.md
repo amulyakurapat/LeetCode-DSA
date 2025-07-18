@@ -43,6 +43,7 @@
 | [0042-trapping-rain-water](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0162-find-peak-element) |
@@ -192,6 +193,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
@@ -208,6 +210,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0226-invert-binary-tree) |
@@ -237,4 +240,12 @@
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1217-relative-sort-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->ode Topics Start-->
