@@ -13,19 +13,18 @@
  *     }
  * }
  */
-class Solution {
-    public TreeNode balancedBST(int nums[], int si, int ei)
-    {
-        if(si > ei)     return null;    
-        
-        int midIndex = (si+ei)/2;
-        TreeNode root = new TreeNode(nums[midIndex]);
-        root.left = balancedBST(nums, si, midIndex-1);
-        root.right = balancedBST(nums, midIndex+1, ei);
 
+
+class Solution{
+    public TreeNode balancedBST(int nums[],int si,int ed){
+        if(si>ed) return null;
+        int mid = (si+ed)/2;
+        TreeNode root = new TreeNode(nums[mid]);
+        root.left = balancedBST(nums,si,mid-1);
+        root.right = balancedBST(nums,mid+1,ed);
         return root;
     }
-    public TreeNode sortedArrayToBST(int[] nums) {
-        return balancedBST(nums, 0, nums.length-1);
+    public TreeNode sortedArrayToBST(int[] nums){
+        return balancedBST(nums,0,nums.length-1);
     }
 }
