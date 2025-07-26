@@ -64,6 +64,7 @@
 | [1217-relative-sort-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1217-relative-sort-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -120,6 +121,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1217-relative-sort-array](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1217-relative-sort-array) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 ## String
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0583-delete-operation-for-two-strings](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -228,6 +231,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Matrix
 |  |
 | ------- |
