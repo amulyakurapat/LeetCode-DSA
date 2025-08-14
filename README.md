@@ -131,6 +131,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0412-fizz-buzz) |
 | [0583-delete-operation-for-two-strings](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [1078-remove-outermost-parentheses](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Prefix Sum
 |  |
@@ -168,6 +169,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
+| [1078-remove-outermost-parentheses](https://github.com/amulyakurapat/LeetCode-DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Database
 |  |
 | ------- |
